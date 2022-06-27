@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anu910
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning DotNet
-- 💞️ I’m looking to collaborate on insightful Angular projects
+- 💞️ I’m looking to collaborate on insightful Angular(FE),DotNet projects
 - 📫 How to reach me ✉️nanjana910@gmail.com
 
 <!---
